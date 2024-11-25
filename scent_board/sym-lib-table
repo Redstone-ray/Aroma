@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-C3-DEVKITC-02")(type "KiCad")(uri "C:/Users/trist/Downloads/ESP32-C3-DEVKITC-02/ESP32-C3-DEVKITC-02.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-006A-SMT")(type "KiCad")(uri "C:/Users/trist/Downloads/PJ_006A_SMT_TR/PJ-006A-SMT.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-11-23_22-42-53")(type "KiCad")(uri "C:/Users/trist/Downloads/TPM8837C_SO1R/KiCADv6/2024-11-23_22-42-53.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-11-24_04-14-59")(type "KiCad")(uri "C:/Users/trist/Downloads/BSR802NL6327HTSA1/KiCADv6/2024-11-24_04-14-59.kicad_sym")(options "")(descr ""))
+)
